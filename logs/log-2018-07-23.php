@@ -1,0 +1,15 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-23 11:38:39 --> Login Error at line no 27 in C:\wamp64\www\AFP_NEW\api\application\models\Login_user_model.php
+ERROR - 2018-07-23 11:38:39 --> Invalid username or password at line no 47 in C:\wamp64\www\AFP_NEW\api\application\controllers\Login_user.php
+ERROR - 2018-07-23 11:53:41 --> Login Error at line no 27 in C:\wamp64\www\AFP_NEW\api\application\models\Login_user_model.php
+ERROR - 2018-07-23 11:53:41 --> Invalid username or password at line no 47 in C:\wamp64\www\AFP_NEW\api\application\controllers\Login_user.php
+ERROR - 2018-07-23 15:30:49 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 15:32:41 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 15:34:13 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:27 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:28 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:29 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:31 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:32 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
+ERROR - 2018-07-23 16:39:33 --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() at line no 1894 in C:\wamp64\www\AFP_NEW\api\system\libraries\Email.php
